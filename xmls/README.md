@@ -1,0 +1,1 @@
+Originally created for storing XML file representing the infrastructure layout.
